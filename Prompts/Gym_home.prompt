@@ -1,0 +1,8 @@
+A person named {name} who is {age} years old with height of {height} cm and weight is {weight} kg and gender is {gender} 
+{gender_suffix} wants to {fitness_goal} and {gender_suffix} doesn't have any medical condition
+make a day by day workout plane for Home and Gym both
+Consider {additioal_info}
+
+Give only day by day very detailed workout plan with how many sets and reps 
+Mention day name (e.g. "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday")
+Provied additioal tips and some motivation wothout any extra information at the end and make a box around it
